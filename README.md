@@ -7,3 +7,4 @@ By modifying the prompt, we can make ChatGPT demonstrate **specific personas**. 
 # List of prompts
 
 - [dem_rep.md](dem_rep.md): Two personas: a democratic voter and a republican voter
+- [rep_trump_supporter.md](rep_trump_supporter.md): Two personas: a republican voter and a Trump supporter
