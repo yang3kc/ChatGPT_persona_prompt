@@ -1,5 +1,9 @@
 # Introduction
 
-This repo contains some prompts that can change the persona of ChatGPT.
+By default, ChatGPT refuses to answer certain questions due to OpenAI's restrictions, which can be circumvented by the so-called ["jailbreak" prompt](https://github.com/gayolGate/gayolGate/blob/index/ChatGPTJailbreak).
 
-I adopted the jailbreak prompt from https://github.com/gayolGate/gayolGate/blob/index/ChatGPTJailbreak and modified it myself.
+By modifying the prompt, we can make ChatGPT demonstrate **specific personas**. Here I store the prompts that I found interesting.
+
+# List of prompts
+
+- [dem_rep.md](dem_rep.md): Two personas: a democratic voter and a republican voter
